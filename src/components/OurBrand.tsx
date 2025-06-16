@@ -39,7 +39,7 @@ export default function OurBrand() {
           className="flex items-center gap-2"
         >
           <MessageCircle className="h-5 w-5" />
-          Contáctanos ahora
+          Contáctanos ahora <span className="text-brand">AN-ATOMIC</span>
         </Link>
       </Button>
     </section>
